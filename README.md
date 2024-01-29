@@ -1,0 +1,2 @@
+# nix
+My Nix Dotfiles
